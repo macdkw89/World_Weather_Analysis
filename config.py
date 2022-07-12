@@ -1,2 +1,0 @@
-weather_api_keys="f588ff0969b6d3372bbbce2cf5e00446"
-nyt_api_key="2CbA2x6vFGcGmSbLeJScI5JSuslSLTQo "
